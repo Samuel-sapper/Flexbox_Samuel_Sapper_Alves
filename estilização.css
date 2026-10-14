@@ -1,0 +1,17 @@
+#título {
+    text-align: center;
+}
+
+.lista {
+    display: flex;
+    gap: 30px;
+}
+
+.item {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: space-around;
+
+}
